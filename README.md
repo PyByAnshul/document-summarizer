@@ -6,7 +6,7 @@ Built with Django REST Framework, Celery, and pymupdf for extraction.
 
 ## Postman Collection
 
-[text](https://www.postman.com/user-service-5414/workspace/document-summarizer/example/27034953-9fbd47f4-fe17-4445-a520-9f50c8d57d86?action=share&creator=27034953&active-environment=27034953-e01f25e2-eec6-434b-a649-2ef5b6bd4e26)
+[https://www.postman.com/user-service-5414/workspace/document-summarizer/example/27034953-9fbd47f4-fe17-4445-a520-9f50c8d57d86?action=share&creator=27034953&active-environment=27034953-e01f25e2-eec6-434b-a649-2ef5b6bd4e26](https://www.postman.com/user-service-5414/workspace/document-summarizer/example/27034953-9fbd47f4-fe17-4445-a520-9f50c8d57d86?action=share&creator=27034953&active-environment=27034953-e01f25e2-eec6-434b-a649-2ef5b6bd4e26)
 
 ## Setup
 
